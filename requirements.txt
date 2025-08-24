@@ -1,0 +1,12 @@
+gluonts==0.10.4
+matplotlib
+numpy
+opencv_python
+pandas
+Pillow
+PyYAML
+scikit_learn
+scipy
+seaborn
+tensorboardX
+torch
